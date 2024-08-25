@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\LINQTOSQL_Project.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\LINQTOSQL_Project.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net6.0\W_LINQTOSQL_Project.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\W_LINQTOSQL_Project.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\LINQTOSQL.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\LINQTOSQL_Project.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\W_LINQTOSQL_Project.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\LINQTOSQL.exe" />
+    <None Include="bin\Debug\LINQTOSQL.exe.config" />
+    <None Include="bin\Debug\LINQTOSQL.pdb" />
+    <None Include="bin\Debug\UniversityDB.mdf" />
+    <None Include="bin\Debug\UniversityDB_log.ldf" />
+    <None Include="LINQTOSQL.csproj.user" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\LINQTOSQL.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\LINQTOSQL.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\LINQTOSQL.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\LINQTOSQL.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\LINQTOSQL.InsertForm.resources" />
+    <None Include="obj\Debug\LINQTOSQL.LinqToSQL_1.resources" />
+    <None Include="obj\Debug\LINQTOSQL.LinqToSQL_2.resources" />
+    <None Include="obj\Debug\LINQTOSQL.LinqToSQL_3.resources" />
+    <None Include="obj\Debug\LINQTOSQL.LinqToSQL_4.resources" />
+    <None Include="obj\Debug\LINQTOSQL.Properties.Resources.resources" />
+    <None Include="obj\Debug\net6.0\LINQTOSQL_Project.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\LINQTOSQL_Project.assets.cache" />
+    <None Include="obj\Debug\net6.0\LINQTOSQL_Project.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\W_LINQTOSQL_Project.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\W_LINQTOSQL_Project.assets.cache" />
+    <None Include="obj\Debug\net6.0\W_LINQTOSQL_Project.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\TempPE\UniversityData.designer.cs.dll" />
+    <None Include="obj\LINQTOSQL_Project.csproj.nuget.g.props" />
+    <None Include="obj\LINQTOSQL_Project.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\W_LINQTOSQL_Project.csproj.nuget.g.props" />
+    <None Include="obj\W_LINQTOSQL_Project.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net6.0\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\net6.0\refint\" />
+    <Folder Include="obj\Debug\net6.0\ref\" />
+  </ItemGroup>
+
+</Project>
